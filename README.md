@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 ```
-## 🎥 Demo Video
+🎥 Demo Video
 
 https://jobboardai.streamlit.app/
 
