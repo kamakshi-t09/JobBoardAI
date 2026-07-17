@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+uploads/
+jobboard.db
+
+.env
+
+.vscode/
+.idea/
