@@ -2,7 +2,7 @@
 
 An AI-powered Job Portal built using Streamlit that helps job seekers find jobs, upload resumes, and receive ATS-based resume matching, while allowing recruiters to post and manage jobs.
 
-✨ **Features**
+# **✨ Features**
 
 - 👤 User Login & Signup
 - 💼 Recruiter Job Posting
