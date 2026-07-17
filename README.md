@@ -54,9 +54,9 @@ streamlit run app.py
 
 <img width="1837" height="857" alt="Screenshot 2026-07-17 165425" src="https://github.com/user-attachments/assets/fcd90301-372f-4b95-951e-7189bab69ac9" />
 
-<img width="1817" height="852" alt="Screenshot 2026-07-17 165557" src="https://github.com/user-attachments/assets/385dc8e4-71ab-47fd-85c1-d1bed21563d6" />
-
 <img width="1831" height="856" alt="Screenshot 2026-07-17 165527" src="https://github.com/user-attachments/assets/f8b8c88d-e189-4346-a3a0-f1a355ef9d2c" />
+
+<img width="1817" height="852" alt="Screenshot 2026-07-17 165557" src="https://github.com/user-attachments/assets/385dc8e4-71ab-47fd-85c1-d1bed21563d6" />
 
 <img width="1811" height="856" alt="Screenshot 2026-07-17 165649" src="https://github.com/user-attachments/assets/31a60389-3353-4507-85c2-14360873af8d" />
 
