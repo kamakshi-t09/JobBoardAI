@@ -13,7 +13,7 @@ An AI-powered Job Portal built using Streamlit that helps job seekers find jobs,
 - 📋 Application Tracking
 - 👤 Profile Management
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Python
 - Streamlit
@@ -24,7 +24,7 @@ An AI-powered Job Portal built using Streamlit that helps job seekers find jobs,
 - PyPDF2
 - python-docx
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```text
 JobBoardAI/
@@ -36,7 +36,7 @@ JobBoardAI/
 │── jobboard.db
 ```
 
-🚀 Installation
+## 🚀 Installation
 
 ```bash
 git clone https://github.com/kamakshi-t09/JobBoardAI.git
@@ -46,11 +46,11 @@ pip install -r requirements.txt
 
 streamlit run app.py
 ```
-🎥 Demo Video
+## 🎥 Demo Video
 
 https://jobboardai.streamlit.app/
 
-📸 Screenshots
+## 📸 Screenshots
 
 <img width="1850" height="851" alt="Screenshot 2026-07-17 165215" src="https://github.com/user-attachments/assets/6e248a0c-e0a8-45c5-8bab-0347a7e41f9b" />
 
@@ -75,7 +75,7 @@ https://jobboardai.streamlit.app/
 <img width="1810" height="816" alt="Screenshot 2026-07-17 170227" src="https://github.com/user-attachments/assets/07ffaa89-10f5-4eec-ba42-12bb9e5cd71c" />
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 
 **Boya Venkata Kamakshi**
